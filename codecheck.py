@@ -3,8 +3,8 @@ import csv
 
 # Variables to track (ensure they match EXACTLY the COBOL variable names)
 target_vars = {
-    'WS-AUTH-B039-RESP-CODE',
-    'WS-AUTH-B044-ADDTL-RESP-DAT'  # Corrected variable name
+    'var1',
+    'var2'  # Corrected variable name
 }
 results = []
 
