@@ -1,0 +1,21 @@
+1. Multi-File Project Auditor
+Paste to Claude: "Load my entire project folder: [upload files]. Analyze: architectural decisions that should change, technical debt to tackle first, security vulnerabilities, performance bottlenecks, and outdated dependencies. Give me a prioritized action plan."
+
+2. Context Memory Vault
+Paste to Claude: "I'm working on [project name]. Here's everything you need to retain: [paste project context]. From now on, reference this context in every response without me repeating it. Summarize what you'll remember."
+
+3. Parallel Work Manager
+Paste to Claude: "I need to complete these tasks simultaneously: [list tasks]. Spawn agent teams: assign each task to a separate agent, coordinate between them, report progress from all agents, merge results when done. Run them in parallel."
+
+4. Adaptive Problem Navigator
+Paste to Claude: "Complex problem: [describe problem]. Don't answer immediately. First, assess: how deep should you think about this (quick/medium/deep reasoning), what information is missing, what assumptions to challenge. Then solve it at the appropriate depth."
+
+5. Mistake Spotter
+Paste to Claude: "Review everything I've done so far in this conversation. Find: logical errors I made, assumptions that might be wrong, places where I'm overconfident, risks I haven't considered. Challenge my thinking before I commit to this approach."
+
+6. Long-Term Project Assistant
+"Paste to Claude: "This is a month-long project: [describe project]. Track decisions from past conversations, context from weeks ago, shifting requirements, and what we've already tried. Use context compaction so you never forget anything important as we continue."
+
+7. Cross-Repo Connector
+"Paste to Claude: "I have two projects: [project A] and [project B]. Load both codebases. Find how they should integrate, which API endpoints to create, shared data structures needed, the migration strategy, and what breaks if we connect them. Map the full integration."
+
